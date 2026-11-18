@@ -1,0 +1,23 @@
+REPTRACK — SEXY MILANCE
+
+Ovo je kopija RepTrack aplikacije sa istim funkcijama, programima, bibliotekom vežbi, fotografijama i tajmerom.
+
+VAŽNO — ODVOJENI PODACI:
+- Aplikacija koristi poseban localStorage ključ: reptrack2-data-v1.
+- Treninzi, istorija, rekordi i podešavanja ove osobe odvojeni su od prve RepTrack aplikacije.
+- Ne postavljati ovu verziju preko postojećeg RepTrack sajta.
+
+OBJAVA KAO POSEBAN SAJT:
+1. Na GitHub-u napravi novi, prazan repository, npr. RepTrack-Drugi.
+2. Izaberi Public (za GitHub Pages) i nemoj dodavati README ili druge fajlove.
+3. Raspakuj ZIP i otpremi u root novog repozitorijuma sledećih 6 fajlova: index.html, sw.js, manifest.json, icon.svg, icon-192.png i icon-512.png.
+4. Otvori Settings > Pages.
+5. U Build and deployment izaberi Deploy from a branch, branch main i folder /(root), pa Save.
+6. Sačekaj objavu. Link će biti oblika https://TVOJ-GITHUB-NALOG.github.io/RepTrack-Drugi/ .
+7. Na iPhone-u otvori taj link u Safari-ju > Share > Add to Home Screen.
+
+PRVI START:
+Na početnom ekranu otvori Podešavanja/Profil i profil je već podešen na ime „Sexy Milance“.
+
+NAPOMENA:
+Podaci se čuvaju lokalno na uređaju te osobe. Za prenos na drugi telefon koristi Backup/Izvoz u aplikaciji. Ne briši podatke sajta u Safari-ju ako želiš da sačuvaš treninge.
